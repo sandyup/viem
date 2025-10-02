@@ -1,5 +1,11 @@
 # viem
 
+## 2.37.12
+
+### Patch Changes
+
+- [`0078d336e19ba62bcccccbbb5212036e6b7f0dcc`](https://github.com/wevm/viem/commit/0078d336e19ba62bcccccbbb5212036e6b7f0dcc) Thanks [@sandyup](https://github.com/sandyup)! - Added Doma Testnet.
+
 ## 2.37.11
 
 ### Patch Changes
